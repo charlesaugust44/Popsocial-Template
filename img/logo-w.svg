@@ -1,0 +1,37 @@
+<svg width="627" height="266" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style type="text/css">
+  @font-face {
+    font-family: Camptom;
+    src: url("Campton-BoldDEMO.ttf") format('truetype');
+	
+}
+  .cls-1 {
+        font-size: 16px;
+        font-family: Campton;
+        font-weight: 700;
+      }
+
+      .cls-1, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #00ff7e;
+      }
+
+      .cls-3 {
+        fill-rule: evenodd;
+      }</style>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="604.884615" height="257.769231" id="canvas_background" fill="none"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text id="Popsocial" class="cls-1" transform="translate(86.93099975585938,166.00799560546875) scale(7.929999828338623) " y="0" x="-9.836066">
+	Popsocia<tspan class="cls-2" id="svg_1">l</tspan>
+  </text>
+ </g>
+</svg>

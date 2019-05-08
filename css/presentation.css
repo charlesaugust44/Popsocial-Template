@@ -1,0 +1,64 @@
+.presentation {
+    width: 1200px;
+    height: 46.8vw;
+    margin: auto;
+    grid-template-rows: 20% 12rem 30%;
+    grid-template-columns: 60% 40%;
+    display: grid;
+}
+
+.slogan {
+    grid-column: 1;
+    grid-row: 2;
+}
+
+.slogan .smallText {
+    color: #fff;
+    opacity: .9;
+}
+
+.slogan .largeText {
+    color: #fff;
+    font-size: 3.5rem;
+    font-weight: 600;
+    text-decoration: #00ff7e underline;
+}
+
+.btn {
+    margin: 15px 5px 5px;
+    padding: 15px 33px;
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 10px;
+    transition: background-color .2s ease;
+}
+
+.btn-primary {
+    border: none;
+    color: #fff;
+    background: #06ef66;
+}
+
+.btn-primary:hover {
+    background: #06ff67;
+    cursor: pointer;
+}
+
+.btn-primary:active {
+    background: #06d75c;
+}
+
+.btn-secondary-dark {
+    border: solid 1px #37373b;
+    color: #37373b;
+    background: none;
+}
+
+.btn-secondary-dark:hover {
+    background: #fff;
+    cursor: pointer;
+}
+
+.btn-secondary-dark:active {
+    background: #d6d6d6;
+}

@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+    outline: none;
+}
+
+.top {
+    position: fixed;
+    width: 100%;
+    height: 90px;
+    color: #fff;
+    transition: all .4s ease;
+    z-index: 10;
+}
+
+.content {
+    width: 100%;
+    background: white url("../img/agency-banner (3).jpg") no-repeat top center;
+    background-size: 100% auto;
+    margin-bottom: 500px;
+    z-index: 2;
+    position: absolute;
+    padding-bottom: 50px;
+
+}
+
+.footer {
+    width: 100%;
+    height: 500px;
+    background: #aaaaaa;
+    position: fixed;
+    bottom: 0;
+    z-index:1;
+}
+
+h2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 32px;
+    line-height: 38px;
+    font-weight: 500;
+}
+
+h3 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    line-height: 38px;
+    font-weight: 500;
+}
+
+small {
+    margin-bottom: 10px;
+    color: #aaa;
+    font-size: 16px;
+    line-height: 30px;
+    font-weight: 300;
+}

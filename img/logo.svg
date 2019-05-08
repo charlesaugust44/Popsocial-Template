@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="266" viewBox="0 0 800 266">
+  <defs>
+    <style>
+      @font-face {
+    font-family: Camptom;
+    src: url("Campton-BoldDEMO.ttf") format('truetype');
+	
+}
+  .cls-1 {
+        font-size: 16px;
+        font-family: Campton;
+        font-weight: 700;
+      }
+
+      .cls-1, .cls-3 {
+        fill: #60f;
+      }
+
+      .cls-2 {
+        fill: #00ff7e;
+      }
+
+      .cls-3 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <text id="Popsocial_" data-name="Popsocial " class="cls-1" transform="translate(86.931 166.008) scale(7.93)">Popsocia<tspan class="cls-2">l</tspan></text>
+  <path id="Forma_1" data-name="Forma 1" class="cls-3" d="M704.432,166.022l-0.286-5.358c-0.09-1.7-.2-3.764-0.2-5.266h-0.036c-0.431,1.412-.915,2.95-1.525,4.633l-2.135,5.919h-1.184l-1.972-5.81c-0.575-1.738-1.041-3.294-1.382-4.742h-0.036c-0.036,1.52-.125,3.547-0.233,5.393l-0.323,5.231h-1.488l0.843-12.2h1.991l2.062,5.9c0.5,1.5.9,2.842,1.22,4.109h0.036c0.323-1.231.753-2.57,1.292-4.109l2.152-5.9h1.991l0.753,12.2h-1.543Zm-15.48,0h-1.578v-10.86H683.7v-1.339h8.951v1.339h-3.7v10.86Z"/>
+</svg>
